@@ -57,7 +57,6 @@ Public Class Form1
     End Sub
 
 
-
     Private Sub CB_Model1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles CB_Model1.SelectedIndexChanged
 
         ''set the amount based on Model Product
@@ -93,10 +92,6 @@ Public Class Form1
         ElseIf CHK_Model2.Text = "Huawei Mate 20 Pro" Then
             model2Amount = Val(CB_Model2.Text) * h2
         End If
-
-        ''hide ModeOfPayment Automatically
-        'GBO_ModeOfPayment.Visible = False
-        'Reset_ModeOfPaymentGroup()
 
         'set the amount on TextBox Label
         TXT_Model2_Amount.Text = Format(model2Amount, "#,###,##0.00")
