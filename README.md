@@ -7,6 +7,11 @@ Visual Basic
 > A Cellphone Store GUI
 <br>
 
+### **Requirements (to run the [code](https://github.com/emmanpbarrameda/OOP_Act3-v2/tree/main/emmanpbarrameda_code) on Visual Studio)**
+> - Visual Studio version 2012 
+> - **Target Framework:** ***.NET Framework 4.5***
+<br>
+
 ### **Download EXE File**
 > **To download the .exe file, click [here](https://github.com/emmanpbarrameda/OOP_Act3-v2/raw/main/materials/Barrameda_OOPActivity3-exe.exe).**
 <br>
@@ -16,7 +21,13 @@ Visual Basic
 <br>
 
 ### **Developed by**
-- Emman P. Barrameda
+- Emmanuel P. Barrameda
 <br>
 
 ***Last updated: 031023 by [@emmanpbarrameda](https://github.com/emmanpbarrameda)***
+
+<br>
+<br>
+
+- **Star++** ⭐  if you  find helpful.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
