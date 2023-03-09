@@ -8,7 +8,7 @@ Visual Basic
 <br>
 
 ### **Requirements (to run the [code](https://github.com/emmanpbarrameda/OOP_Act3-v2/tree/main/emmanpbarrameda_code) on Visual Studio)**
-> - Visual Studio version 2012 
+> - Visual Studio version 2012 or higher
 > - **Target Framework:** ***.NET Framework 4.5***
 <br>
 
