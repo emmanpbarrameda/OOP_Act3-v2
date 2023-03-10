@@ -13,7 +13,7 @@ Visual Basic
 <br>
 
 ### **Download EXE File**
-> **To download the .exe file, click [here](https://github.com/emmanpbarrameda/OOP_Act3-v2/raw/main/materials/Barrameda_OOPActivity3-exe.exe).**
+> **To download the .exe file, click [here](https://github.com/emmanpbarrameda/OOP_Act3-v2/raw/main/materials/Barrameda_OOPActivity3.v2_exe-file.zip).**
 <br>
 
 ### **GUI Preview**
